@@ -1,0 +1,2 @@
+fabric/out/*
+!fabric/out/.gitkeep
